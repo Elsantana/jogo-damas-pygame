@@ -2,10 +2,6 @@
 
 Um jogo de damas simples e funcional desenvolvido em Python com interface gráfica usando Pygame.
 
-## 📷 Captura de tela
-
-*(Adicione aqui uma imagem futuramente, usando `Print Screen` do jogo rodando.)*
-
 ## 🎮 Funcionalidades
 
 - Jogo completo para dois jogadores
